@@ -9,13 +9,59 @@
   "borderWidth": "",
   "cached_js": null,
   "cached_js_script_hash": null,
-  "children": [],
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "chbxChoice.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "rbtnChoice.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "sldrBlue.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "slctChoice.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABFourControls",
+        "Elements",
+        "Label1.json"
+      ]
+    }
+  ],
   "class": "",
-  "designHeight": 0,
+  "designHeight": 1000,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
+  "height": "auto",
   "id": "ABFourControls",
   "language": "JavaScript",
   "left": "0",
